@@ -1,1 +1,1 @@
-# Java-fx
+# JavaFX project from code.makery.
